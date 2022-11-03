@@ -27,6 +27,11 @@
             "input": "./packages/my-plugin",
             "glob": "generators.json",
             "output": "."
+          },
+          {
+            "input": "./packages/my-plugin",
+            "glob": "executors.json",
+            "output": "."
           }
         ]
       }
