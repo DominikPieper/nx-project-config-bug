@@ -1,0 +1,9 @@
+{
+  "executors": {
+    "foobar": {
+      "implementation": "./src/executors/foobar/executor",
+      "schema": "./src/executors/foobar/schema.json",
+      "description": "foobar executor"
+    }
+  }
+}
